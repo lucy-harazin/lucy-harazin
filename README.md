@@ -1,4 +1,10 @@
-## Hi there 👋
+# Greetings! 👋
+
+## Thank you for taking the time to check out my Github where I post school and side projects!
+
+- 🖥️ I've started programming a few years ago and have great headway on several different projects!
+- 📚 I'm currently learning statistical model analysis and more advanced machine learning techniques in Python
+- 📯 A fun fact about me is that I'm also a musician and am working to create a music prediction model
 
 <!--
 **lucy-harazin/lucy-harazin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
